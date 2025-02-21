@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <div>
-        <h1 className='bg-red-600 text-white font-bold text-xl'>react </h1>
+        <h1 className='bg-red-600 text-white font-bold text-xl'>react talwind css </h1>
       </div>
     </>
   )
